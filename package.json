@@ -20,10 +20,10 @@
     "preview": "pnpm run build && pnpm run start"
   },
   "engines": {
-    "node": ">=18.18.0"
+    "node": ">20.0.0"
   },
   "dependencies": {
-    "@remix-run/node": "18.18.0",
+    "@remix-run/node": "20.0.0",
     "@ai-sdk/anthropic": "^0.0.39",
     "@codemirror/autocomplete": "^6.17.0",
     "@codemirror/commands": "^6.6.0",
