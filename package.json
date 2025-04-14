@@ -19,6 +19,7 @@
     "typegen": "wrangler types",
     "preview": "pnpm run build && pnpm run start"
   },
+  "type": "module"
   "engines": {
     "node": ">20.0.0"
   },
